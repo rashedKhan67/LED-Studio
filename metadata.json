@@ -1,0 +1,6 @@
+{
+  "name": "LED Studio Pro",
+  "description": "A high-performance LED text board emulator with real-time text scaling, neon glow effects, and PNG export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
